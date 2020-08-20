@@ -4,6 +4,4 @@
 - My projects can found at https://legohacks.xyz/
 
 ### Contact me:
-<br />
-
 - Discord: Spencer#0003 (519790100956184586)
