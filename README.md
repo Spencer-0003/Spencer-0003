@@ -1,7 +1,7 @@
 # Hello 👋
 I create stuff.
 ## Who I am
-I'm a developer for LegoHacks (https://github.com/LegoHacks)
+I'm a developer for LegoHacks (https://github.com/LegoHacks and https://legohacks.xyz)
 
 ```lua
 -- gamer moment.
