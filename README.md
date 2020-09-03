@@ -1,8 +1,14 @@
-### Hello! 👋
-### I'm a teenager who programs random shit because he's bored.
-- I'm currently working on my ShareX Uploader service and my Roblox script hub.
-- My projects can found at https://legohacks.xyz/
+# Hello 👋
 
-### Contact me:
-- Discord: Spencer#0003 (519790100956184586)
-- Twitter: https://twitter.com/S_pe_n_ce_r
+Foobar is a Python library for dealing with word pluralization.
+
+## Who I am
+I'm a teenager who just programs random things.
+
+```lua
+print("Do the tostring");
+```
+
+## Contact me:
+[Twitter](https://twitter.com/S_pe_n_ce_r)\
+[Discord](https://discord.bio/p/spencer0003)
