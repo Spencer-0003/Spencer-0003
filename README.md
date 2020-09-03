@@ -1,7 +1,4 @@
 # Hello 👋
-
-Foobar is a Python library for dealing with word pluralization.
-
 ## Who I am
 I'm a teenager who just programs random things.
 
