@@ -1,9 +1,10 @@
 # Hello 👋
 I create stuff.
 ## Who I am
-I'm a teenager who just programs random things.
+I'm a developer for LegoHacks (https://github.com/LegoHacks)
 
 ```lua
+-- gamer moment.
 print("Do the tostring");
 ```
 
