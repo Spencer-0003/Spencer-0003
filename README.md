@@ -11,3 +11,12 @@ print("Do the tostring");
 ## Contact me:
 [Twitter](https://twitter.com/S_pe_n_ce_r)\
 [Discord](https://discord.bio/p/spencer0003)
+
+<br />
+
+<details>
+  <summary>:Github Stats</summary>
+
+  <img align="left" alt="Arilis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spencer-0003&show_icons=true&hide_border=true" />
+
+</details>
