@@ -12,7 +12,7 @@ print("Do the tostring");
 [Twitter](https://twitter.com/S_pe_n_ce_r)\
 [Discord](https://discord.bio/p/spencer0003)
 
-##What I'm listening to
+## What I'm listening to
 
 [Spotify](https://novatorem-orcin.vercel.app/api/spotify)
 
