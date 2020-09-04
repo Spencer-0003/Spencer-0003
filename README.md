@@ -1,5 +1,8 @@
 # Hello 👋
 I create stuff.
+
+[![Website](https://img.shields.io/website?label=legohacks.xyz&style=for-the-badge&url=https%3A%2F%2Flegohacks.xyz)](legohacks.xyz)
+
 ## Who I am
 I'm a developer for LegoHacks (https://github.com/LegoHacks and https://legohacks.xyz)
 
