@@ -15,7 +15,7 @@ print("Do the tostring");
 <br />
 
 <details>
-  <summary>:Github Stats</summary>
+  <summary>Github Stats</summary>
 
   <img align="left" alt="Arilis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spencer-0003&show_icons=true&hide_border=true" />
 
