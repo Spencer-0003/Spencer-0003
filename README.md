@@ -13,7 +13,7 @@ I'm a developer for LegoHacks (https://github.com/LegoHacks and https://legohack
 print("Do the tostring");
 ```
 
-## Contact me:
+## Contact me
 [Twitter](https://twitter.com/S_pe_n_ce_r)\
 [Discord](https://discord.bio/p/spencer0003)
 
