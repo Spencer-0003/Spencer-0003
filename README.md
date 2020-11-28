@@ -6,7 +6,8 @@
 I create stuff.
 
 ## Who I am
-I'm a developer for LegoHacks (https://github.com/LegoHacks and https://legohacks.xyz)
+I used to be develop exploits for Roblox but I now I work on the Ashlyn Discord bot.
+https://discord.bots.gg/bots/773305746695520298
 
 ```lua
 -- gamer moment.
