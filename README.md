@@ -6,13 +6,8 @@
 I create stuff.
 
 ## Who I am
-I used to be develop exploits for Roblox but I now I work on the Ashlyn Discord bot.
+I'm a college student who likes to program things. I am currently working on the Ashlyn Discord bot, an invite for the bot can be found below.
 https://discord.bots.gg/bots/773305746695520298
-
-```lua
--- gamer moment.
-print("Do the tostring");
-```
 
 ## Contact me
 [Twitter](https://twitter.com/S_pe_n_ce_r)\
@@ -27,6 +22,6 @@ print("Do the tostring");
 <details>
   <summary>Github Stats</summary>
 
-  <img align="left" alt="Arilis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spencer-0003&show_icons=true&hide_border=true" />
+  <img align="left" alt="Spencer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spencer-0003&show_icons=true&hide_border=true" />
 
 </details>
