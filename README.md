@@ -1,5 +1,5 @@
 # Hello 👋
-
+[![Website](https://img.shields.io/website?label=legohacks.xyz&style=for-the-badge&url=https://spencer-0003.me)](https://spencer-0003.me)
 [![Website](https://img.shields.io/website?label=legohacks.xyz&style=for-the-badge&url=https://legohacks.xyz)](https://legohacks.xyz)
 [![Twitter Follow](https://img.shields.io/twitter/follow/S_pe_n_ce_r?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSpencer-0003&screen_name=S_pe_n_ce_r)
 
