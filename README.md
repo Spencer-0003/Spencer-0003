@@ -11,7 +11,7 @@ https://discord.bots.gg/bots/773305746695520298
 
 ## Contact me
 [Twitter](https://twitter.com/S_pe_n_ce_r)\
-[Discord](https://discord.bio/p/spencer0003)
+[Discord](https://discord.bio/p/spencer0003)\
 [Telegram](https://t.me/Spencer0003)
 
 ## What I'm listening to
