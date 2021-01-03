@@ -27,6 +27,6 @@ https://discord.bots.gg/bots/773305746695520298
 <details>
   <summary>Github Stats</summary>
 
-  <img align="left" alt="Spencer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spencer-0003&show_icons=true&hide_border=true" />
+  <img align="left" alt="Spencer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Spencer-0003&show_icons=true&hide_border=true&theme=dark" />
 
 </details>
