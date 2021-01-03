@@ -10,6 +10,10 @@ I'm a college student who likes to program things. I am currently working on the
 https://discord.bots.gg/bots/773305746695520298
 
 ## Contact me
+
+[https://spencer-0003.me](https://spencer-0003.me)
+
+## Contact me
 [Twitter](https://twitter.com/Spencer__0003)\
 [Discord](https://discord.bio/p/spencer0003)\
 [Telegram](https://t.me/Spencer0003)
