@@ -25,7 +25,7 @@ https://discord.bots.gg/bots/773305746695520298
 
 #### Hosting Services that I specialize
 
-<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/> <img src="https://img.shields.io/badge/Vultr-%23007BFC.svg?&style=for-the-badge&logo=Vultr&logoColor=white"/> <img src="https://img.shields.io/badge/cpanel%20-%23FF6C2C.svg?&style=for-the-badge&logo=cpanel&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?&style=for-the-badge&logo=digitalOcean&logoColor=white"/> <img src="https://img.shields.io/badge/Vultr-%23007BFC.svg?&style=for-the-badge&logo=Vultr&logoColor=white"/> <img src="https://img.shields.io/badge/cpanel%20-%23FF6C2C.svg?&style=for-the-badge&logo=cpanel&logoColor=white"/> <img src="https://img.shields.io/badge/Cloudflare%20-%23F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/> <img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/glitch%20-%233333FF.svg?&style=for-the-badge&logo=glitch&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 
 #### Administration Technologies that I specialize
 
