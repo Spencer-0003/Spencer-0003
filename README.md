@@ -1,5 +1,9 @@
 # Hello 👋
 
+## Who I am
+I'm a college student who likes to program things. I am currently working on the Ashlyn Discord bot, an invite for the bot can be found below.
+https://discord.bots.gg/bots/773305746695520298
+
 ## Websites
 [![Website](https://img.shields.io/website?label=spencer-0003.me&style=for-the-badge&url=https://spencer-0003.me)](https://spencer-0003.me)
 
@@ -12,12 +16,6 @@ Website used to host my authentication system
 ## Social Medias
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Spencer__0003?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSpencer-0003&screen_name=S_pe_n_ce_r)
-
-I create stuff.
-
-## Who I am
-I'm a college student who likes to program things. I am currently working on the Ashlyn Discord bot, an invite for the bot can be found below.
-https://discord.bots.gg/bots/773305746695520298
 
 ## Portfolio
 
