@@ -1,6 +1,4 @@
 # Hello 👋
-
-## Who I am
 I'm a college student who likes to program things. I am currently working on the Ashlyn Discord bot, an invite for the bot can be found below.
 https://discord.bots.gg/bots/773305746695520298
 
