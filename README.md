@@ -7,10 +7,6 @@ https://discord.bots.gg/bots/773305746695520298
 
 My portfolio where I show my previous work.
 
-[![Website](https://img.shields.io/website?label=legohacks.xyz&style=for-the-badge&url=https://legohacks.xyz)](https://legohacks.xyz)
-
-Website used to host my authentication system
-
 ## Social Medias
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Spencer__0003?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSpencer-0003&screen_name=S_pe_n_ce_r)
