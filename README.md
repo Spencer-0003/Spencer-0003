@@ -1,6 +1,6 @@
 # Hello 👋
-I'm a college student who likes to program things. I am currently working on the Ashlyn Discord bot, an invite for the bot can be found below.
-https://discord.bots.gg/bots/773305746695520298
+I'm a college student who likes to program things. ~I am currently working on the Ashlyn Discord bot, an invite for the bot can be found below.
+https://discord.bots.gg/bots/773305746695520298~
 
 ## Websites
 [![Website](https://img.shields.io/website?label=spencer-0003.me&style=for-the-badge&url=https://spencer-0003.me)](https://spencer-0003.me)
