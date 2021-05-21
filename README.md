@@ -19,6 +19,6 @@
 
 <p align="center">
     <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSpencer-0003&screen_name=Spencer__0003"><img src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" height="50"/></a>
-    <a href="https://discord.gg/placeholder"><img src="https://pbs.twimg.com/profile_images/1392864511669854217/dBymBmGq_400x400.jpg" height="50"/></a>
+    <a href="https://discord.bio/p/5pencer0003"><img src="https://pbs.twimg.com/profile_images/1392864511669854217/dBymBmGq_400x400.jpg" height="50"/></a>
     <a href="https://keybase.io/spencer0003"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Keybase_logo_official.svg/1200px-Keybase_logo_official.svg.png" height="50"/> </a>
 </p>
