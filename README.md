@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <a href="https://open.spotify.com/user/hae28hfde0zdiqt9pck5no6px"><img src="https://novatorem-orcin.vercel.app/api/spotify"/></a>
+    <a href="https://open.spotify.com/user/bi2n7kvhvhprqkxrznmhaanrv"><img src="https://novatorem-orcin.vercel.app/api/spotify"/></a>
 </p>
 
 <h1 align="center">Portfolio</h1>
