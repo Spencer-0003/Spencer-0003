@@ -2,8 +2,7 @@
 <h3 align="center">Fullstack Developer & Software Engineer</h3>
 
 <p align="center">
-    "Anxiety is the hand maiden of creativity." <br />
-    ~ T. S. Eliot
+    I use Arch, btw.
 </p>
 
 <p align="center">
