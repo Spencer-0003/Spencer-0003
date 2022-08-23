@@ -23,7 +23,5 @@
 <p align="center">
     <a href="https://discord.com/users/806037166701674511"><img src="https://lanyard-profile-readme.vercel.app/api/806037166701674511?idleMessage=Probably%20sleeping"/></a>
     <br />
-    <a href="https://ko-fi.com/H2H17NJH7"><img src="https://ko-fi.com/img/githubbutton_sm.svg"/></a>
-    <br />
     <a href="https://wakatime.com/@3920914e-10af-4d83-8c9a-7df756ee968c"><img src="https://wakatime.com/badge/user/3920914e-10af-4d83-8c9a-7df756ee968c.svg"/></a>
 </p>
