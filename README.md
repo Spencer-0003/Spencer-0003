@@ -1,7 +1,3 @@
-<h1 align="center">This GitHub account is no longer used for things other than creating issues and pull requests to other repositories.</h1>
-<h2 align="center">Future projects will be on my <a href="https://gitlab.com/Spencer-0003">GitLab account</a></h2>
-<h3 align="center">Microsoft sucks.</h3>
-
 <h1 align="center">Hi, I'm Spencer</h1>
 <h3 align="center">Fullstack Developer & Software Engineer</h3>
 
