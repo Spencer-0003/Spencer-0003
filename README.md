@@ -13,6 +13,10 @@
 
 <p align="center">You can view my portfolio at <a href="https://spencer-0003.me">my website</a>.</p>
 
+<h1 align="center">What I'm currently working on</h1>
+
+<p align="center">I'm currently working on <a href="https://discord.gg/vRm53ZqWqV">Acedia</a>.</p>
+
 <h1 align="center">Contact</h1>
 <p align="center">You can message me on Discord by clicking below</p>
 
