@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.last.fm/user/Spencer-0003"><img src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=Spencer-0003&theme=dark"/></a>
-    <br/>
+    <a href="https://www.last.fm/user/Spencer-0003"><img src="https://lastfm-recently-played.vercel.app/api?user=Spencer-0003&count=1"/></a>
 </p>
 
 <p align="center">I'm currently working on <a href="https://acedia.cc/discord">Acedia</a>.</p>
