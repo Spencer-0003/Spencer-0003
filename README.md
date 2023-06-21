@@ -1,8 +1,4 @@
 <p align="center">
-    
-</p>
-
-<p align="center">
     <a href="https://www.last.fm/user/Spencer-0003"><img src="https://lastfm-recently-played.vercel.app/api?user=Spencer-0003&count=1"/></a>
 </p>
 
