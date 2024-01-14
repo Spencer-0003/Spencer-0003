@@ -2,7 +2,7 @@
     <a href="https://www.last.fm/user/Spencer-0003"><img src="https://lastfm-recently-played.vercel.app/api?user=Spencer-0003&count=1"/></a>
 </p>
 
-<p align="center">I'm currently working on <a href="https://acedia.cc/discord">Acedia</a>.</p>
+<p align="center">This account is very inactive, new work is posted <a href="https://git.usesarchbtw.lol/Spencer">here</a>.</p>
 <p align="center">Owner and maintainer of <a href="https://usesarchbtw.lol">usesarchbtw.lol</a>.</p>
 
 <p align="center">
